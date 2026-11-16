@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand palette taken from logo.png -->
+    <color name="ic_launcher_background">#0F3E6D</color>
+    <color name="brand_navy">#0F3E6D</color>
+    <color name="window_light">#FFFFFF</color>
+    <color name="window_dark">#071B2F</color>
+</resources>
